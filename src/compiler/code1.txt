@@ -1,0 +1,10 @@
+ class ahmed{
+ 
+void fuc(){
+while(true){
+
+
+}
+}
+}
+
